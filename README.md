@@ -1,16 +1,16 @@
-<img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="100%" />
-
 <h1 align="center">Hi 👋, I'm Faraz Alam</h1>       
-<h3 align="center">Curious Mind | Full-Stack Explorer | Problem Solver</h3>                                 
+<h3 align="center">Curious Mind | Software Engineer | Problem Solver</h3>                                 
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=farazalam2017&label=Profile%20views&color=0e75b6&style=flat" alt="farazalam2017" />
 </p>
 
+<img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="100%" />
+
 ---
 
 ### 🚀 About Me  
-- 🌱 I’m currently learning **Web Development & Algorithmic Thinking**  
+- 🌱 I’m currently learning *Algorithmic Thinking & System Design**  
 - 👨‍💻 All of my projects are available at [Portfolio](https://personal-portfolio-farazalam.vercel.app/)  
 - 📝 I regularly write articles on [Blog](https://farazalam2017.vercel.app/)  
 - 💬 Ask me about **Web Development & Problem Solving**  
